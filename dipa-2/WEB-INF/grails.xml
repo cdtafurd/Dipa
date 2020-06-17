@@ -1,0 +1,36 @@
+<grails>
+  <resources>
+    <resource>org.grails.plugin.resource.CSSRewriterResourceMapper</resource>
+    <resource>JQueryResourceTagLib</resource>
+    <resource>org.grails.plugin.resource.ResourceTagLib</resource>
+    <resource>JQueryPluginResources</resource>
+    <resource>JQueryService</resource>
+    <resource>JQueryTagLib</resource>
+    <resource>JQueryConfig</resource>
+    <resource>org.grails.plugin.resource.BaseUrlResourceMapper</resource>
+    <resource>org.grails.plugin.resource.BundleResourceMapper</resource>
+    <resource>ResourcesBootStrap</resource>
+    <resource>org.grails.plugin.resource.CSSPreprocessorResourceMapper</resource>
+    <resource>simulador.PruebaPresentada</resource>
+    <resource>simulador.Componente</resource>
+    <resource>simulador.ResultadoTotal</resource>
+    <resource>simulador.Imagen</resource>
+    <resource>simulador.TipoPrueba</resource>
+    <resource>simulador.ResultadoComponente</resource>
+    <resource>simulador.Usuario</resource>
+    <resource>ApplicationResources</resource>
+    <resource>DataSource</resource>
+    <resource>Config</resource>
+    <resource>BuildConfig</resource>
+    <resource>UrlMappings</resource>
+    <resource>resources</resource>
+    <resource>BootStrap</resource>
+    <resource>simulador.PruebaPresentadaController</resource>
+    <resource>simulador.UsuarioController</resource>
+  </resources>
+  <plugins>
+    <plugin>JqueryGrailsPlugin</plugin>
+    <plugin>HibernateGrailsPlugin</plugin>
+    <plugin>ResourcesGrailsPlugin</plugin>
+  </plugins>
+</grails>
