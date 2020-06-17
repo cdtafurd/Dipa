@@ -1,0 +1,9 @@
+.canvas-wrapper{
+	overflow: hidden !important;
+	width: 930px;
+	height: 100% !important;
+}
+
+#mensaje-menor-ie9{
+	display: block !important;
+}
